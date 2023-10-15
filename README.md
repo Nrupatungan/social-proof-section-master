@@ -47,7 +47,7 @@ Users should be able to:
 
 ```css
 body{
-  background: url("../../../images/bg-pattern-top-desktop.svg") no-repeat left top, url("../../../images/bg-pattern-bottom-desktop.svg") no-repeat right bottom;
+  background: url("../images/bg-pattern-top-desktop.svg") no-repeat left top, url("../images/bg-pattern-bottom-desktop.svg") no-repeat right bottom;
 }
 ```
 
